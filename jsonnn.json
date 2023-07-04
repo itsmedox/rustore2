@@ -21,41 +21,42 @@
   
     
 
-    "Image_cpaLink" : "https://iili.io/HiJCjwl.png",
-    "LinkCpa": "https://www.google.com/",
+    "Image_cpaLink" : "https://iili.io/HiiDdB9.png",
+    "LinkCpa": "",
+    
 
-    "ImageUrl_banner": "https://iili.io/HiJCjwl.png",
-    "LinkCpa_banner": "https://www.google.com/",
-    "ImageUrl_banner1": "https://iili.io/HiJCjwl.png",
-    "LinkCpa_banner1": "https://www.google.com/",
-    "ImageUrl_banner2": "https://iili.io/HiJCjwl.png",
-    "LinkCpa_banner2": "https://www.google.com/",
+    "ImageUrl_banner": "https://iili.io/HiiDdB9.png",
+    "LinkCpa_banner": "",
+    "ImageUrl_banner1": "https://iili.io/HiiDdB9.png",
+    "LinkCpa_banner1": "",
+    "ImageUrl_banner2": "https://iili.io/HiiDdB9.png",
+    "LinkCpa_banner2": "",
 
-    "Image_exit": "https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
-    "link_exit": "https://www.google.com/",
+    "Image_exit": "https://iili.io/HiiDdB9.png",
+    "link_exit": "",
 
     "privacy" : "https://policies.google.com/privacy?hl=en-US",
     "url_exit": "https://www.google.com/",
     "url_bottom_coins": "https://www.google.com/",
 
-    "Text_tips1": "Welcome ESKIMO APP",
-    "Text_tips2": "Welcome nATURE ESKIMO",
-    "Text_tips3": "Welcome NATURE BLANC",
-    "Text_tips4": "blanc neige",
-    "Text_tips5": "Arctic Survival",
-    "Text_tips6": "best  nature capturs ",
-    "Text_tips7": "Eskimo history",
-    "Text_tips8": "Welcome fascinating wildlife eskimo",
+    "Text_tips1": "Welcome ruStore APP",
+    "Text_tips2": " App Recommendations and Reviews",
+    "Text_tips3": "Performance Tips Rustore",
+    "Text_tips4": "Task  and Productivity",
+    "Text_tips5": " Problem Solving",
+    "Text_tips6": "Rustore Education and Resources ",
+    "Text_tips7": "Security and Privacy Tools",
+    "Text_tips8": " Community and Discussion",
 
 
-    "Text_title1": "Discover the fascinating wildlife of the Eskimo region with stunning imagery and detailed information",
-    "Text_title2": "Learn essential skills and tips for surviving in the challenging Arctic environment",
-    "Text_title3": "Welcome fascinating wildlife eskimo",
-    "Text_title4": "eskimo has a huge history ",
-    "Text_title5": "rack and predict mesmerizing Northern Lights displays",
-    "Text_title6": "immerse yourself in the tranquil ambiance in eskimo people",
-    "Text_title7": "how kind is eskimo people?",
-    "Text_title8": "Eskimo in history and place",
+    "Text_title1": "the accessibility features and special capabilities of your Android device with RuStore Android-приложение-гид's dedicated section",
+    "Text_title2": "ask questions, and seek support through RuStore Android-приложение-гид's",
+    "Text_title3": "Stay up-to-date with the latest Android updates and features using RuStore Android-",
+    "Text_title4": "ruStore has a huge history ",
+    "Text_title5": "Rustore App prioritizes the security and privacy of its users",
+    "Text_title6": "Stay informed with Rustore App's ",
+    "Text_title7": "Rustore offers a robust portfolio management  ",
+    "Text_title8": "ruStore in history and place",
 
 
     "Text_buttonCoins" : "Male ",
